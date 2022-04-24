@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/subrotate"
+        android:title="45도 회전"
+        ></item>
+    <item
+        android:id="@+id/size"
+        android:title="2배 확대"
+        ></item>
+</menu>
